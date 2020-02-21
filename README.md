@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Programming Portfolio!
 
 You can use the [editor on GitHub](https://github.com/Tyler-Roa/Portfolio2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
