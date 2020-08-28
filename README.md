@@ -5,7 +5,7 @@ I am a Student at Skyline High School, and I'm still learning how to code things
 # Still Learning
 I'm kinda hot garbage at life tho
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Typing test?](https://github.com/Tyler-Roa/Portfolio2020/blob/master/images/animeglasses.jpg?raw=true)
 
 ### Markdown
 
