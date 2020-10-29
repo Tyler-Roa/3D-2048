@@ -1,1 +1,2 @@
-Version 1.0 - Created the portfolio
+# Version 1.0
+  Created the portfolio
