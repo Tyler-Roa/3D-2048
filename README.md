@@ -5,9 +5,9 @@ I am a Student at Skyline High School, and I'm still learning how to code things
 # Still Learning
 I'm kinda hot garbage at life tho
 
-![Typing test?](https://github.com/Tyler-Roa/Portfolio2020/blob/master/images/animeglasses.jpg?raw=true)
+![Typing test?](https://github.com/Tyler-Roa/Portfolio2021/blob/master/images/animeglasses.jpg?raw=true)
 
-![anime](https://github.com/Tyler-Roa/Portfolio2021/blob/master/images/Violation(2).png?raw=true)
+![anime](https://github.com/Tyler-Roa/Portfolio2021/blob/master/images/Violation(2).jpg?raw=true)
 
 ### Markdown
 
