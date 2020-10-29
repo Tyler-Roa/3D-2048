@@ -7,6 +7,8 @@ I'm kinda hot garbage at life tho
 
 ![Typing test?](https://github.com/Tyler-Roa/Portfolio2020/blob/master/images/animeglasses.jpg?raw=true)
 
+![anime](https://github.com/Tyler-Roa/Portfolio2020/blob/master/images/Violation(2).jpg?raw=true)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
