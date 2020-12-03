@@ -5,6 +5,7 @@ This project Idea is still totally in development
 Ideas
   * Matrix calculator with arrays
   * Game
+
 Are we supposed to have this solidified?
 
 # Still Learning
