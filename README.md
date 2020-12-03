@@ -1,6 +1,9 @@
 ## Welcome to my the Unknown Project!
 
-I am a Student at Skyline High School, and I'm still learning how to code things. 
+This project Idea is still totally in development
+  Ideas
+  * Matrix calculator with arrays
+  * Game
 
 # Still Learning
 I'm kinda hot garbage at life tho
