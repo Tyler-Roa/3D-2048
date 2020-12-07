@@ -1,0 +1,3 @@
+/*
+This will implement both the Scanner as well as the general math of the game. 
+*/
