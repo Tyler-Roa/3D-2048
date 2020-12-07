@@ -1,12 +1,6 @@
-## Welcome to my the Unknown Project!
+## Welcome to my Project!
+#3D 2048
 
-This project Idea is still totally in development
-
-Ideas
-  * Matrix calculator with arrays
-  * Game
-
-Are we supposed to have this solidified?
 
 # Still Learning
 I'm kinda hot garbage at life tho
