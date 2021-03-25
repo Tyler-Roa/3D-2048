@@ -21,5 +21,3 @@ My plan at the moment is to display each slice of the cube side by side. That wi
 
 
 ![Project UML](https://github.com/Tyler-Roa/Portfolio2021/blob/master/images/project.PNG?raw=true)
-
-![woik](https://github.com/Tyler-Roa/Portfolio2021/blob/master/images/work.jpg?raw=true)
