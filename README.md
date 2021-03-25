@@ -20,4 +20,4 @@ So, given the need to see all components in this 3x3 cube, using a 3D graphical 
 My plan at the moment is to display each slice of the cube side by side. That will give the user all the information in a (hopefully!) useful way.
 
 
-![Project UML](https://github.com/Tyler-Roa/Portfolio2021/blob/master/images/project.PNG?raw=true)
+![Project UML](https://github.com/Tyler-Roa/Portfolio2021/blob/master/images/IndividualProject.PNG?raw=true)
