@@ -2,10 +2,16 @@
 
 
 # 3D 2048
-This will be a 3 3x3 cubes, using the same gameplay loop as the popular game 2048.
+This will be a 4 4x4 cubes, using the same gameplay loop as the popular game 2048.
 
 ## Arrays
 This project should use 3D arrays to store the location of different #'s of different sizes
+
+## Try-Catch 
+This project uses try-catch functions to deal with possible overflow given the large amount of failed random numbers that are generated.
+
+## recursion?
+It uses a weird and inefficently twisted version of recursion, but it works.
 
 
 
