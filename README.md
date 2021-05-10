@@ -1,4 +1,4 @@
-## Welcome to my Project!
+## Welcome to my Individual Project!
 
 
 # 3D 2048
