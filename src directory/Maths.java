@@ -68,7 +68,6 @@ public class Maths {
 		}
 	}
 	//Note: this is a garbage system that goes through the switch repeatedly. I could probably fix this if I was skilled
-	//if positive, top down. if negative, bot up. 0,0,0 is at the top right, closest to the screen.
 	public int[][][] direction(int direction) { //# as directions: +/- 1 = z, +/- 2 = y, +/- 3 = z 
 		for(int l = 0; l < 4; l++) {
 			for(int i = 0; i < 4; i++) {
